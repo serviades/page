@@ -1,0 +1,10 @@
+/* Estilos adicionales */
+.hero {
+    background-color: #e0f7fa;
+    padding: 4rem;
+    text-align: center;
+}
+.hero h1 {
+    color: #00796b;
+    font-size: 2.5rem;
+}
